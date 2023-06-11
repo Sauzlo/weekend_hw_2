@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    font-family: sans-serif
+  }
+  
+  body > header {
+    background-color: dodgerblue;
+    color: white;
+    padding: 30px;
+  }
+
+  body > header > nav > ul > li > a{
+    color: white;
+  }
+  
+  #logo {
+    margin: 0;
+    font-family: sans-serif;
+  }
+  
+  body > main > article {
+    margin: auto;
+    width: 70%;
+  }
+  
+  body > footer {
+    background-color: dodgerblue;
+  }
+  
+  body > footer > p {
+    padding: 16px;
+    text-align: center;
+    color: white;
+  }
+  
+  img {
+    width: 300px;
+    height: 200px;
+  }
+
+  article > form > .input-element {
+    width: 800px;
+    height: 300px;
+  }
